@@ -39,7 +39,6 @@
         android:layout_width="170dp"
         android:layout_height="170dp"
         android:contentDescription="@string/app_name"
-        android:foreground="@drawable/lemon_tree"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintLeft_toLeftOf="parent"
